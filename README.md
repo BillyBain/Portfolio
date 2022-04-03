@@ -6,4 +6,4 @@ Other requirements were to have the page’s header link to the different sectio
 
  You can access the portfolio at https://billybain.github.io/week-2-homework/. 
  
- ![Billy Bain's Portfolio - Google Chrome 4_2_2022 8_49_28 PM](https://user-images.githubusercontent.com/100814286/161406598-594f137c-2571-40cd-91b9-4f6a5bd3e9b6.png)
+ ![portfolio version 1](https://user-images.githubusercontent.com/100814286/161406750-4d079b3c-2875-4910-a664-dfe96bc9bdc8.png)
