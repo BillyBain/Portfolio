@@ -1,18 +1,21 @@
 :root{
-    --orange: rgb(175, 64, 0);
     --blue: rgb(101, 178, 180);
+    --white: rgb(247, 244, 224);
+    --gray:  rgb(96, 94, 94);
 }
+
 body{
     font-family: 'Permanent Marker', cursive;
-    color: var(--orange)
+    color: var(--white);
+    background-color: var(--gray);
 }
 header{
     background-color: var(--blue);
-    border-bottom: solid var(--orange) 3px;
+    border-bottom: solid var(--white) 3px;
 }
 
 h1{
-    color: var(--orange);
+    color: var(--white);
     font-size: 75px;
     padding: 10px;
     text-shadow: -5px 5px 10px  rgb(0, 0, 0);
@@ -31,7 +34,7 @@ nav {
     background-color: var(--blue);  
 }
 li a{
-    color: var(--orange);
+    color: var(--white);
     font-size: 25px;
 }
 li img {
@@ -42,35 +45,31 @@ li img:hover {
 }
 h2{
     font-size: 40px;
-    border-right: 3px solid var(--orange);
-    border-bottom:3px solid var(--orange);
+    border-right: 3px solid var(--white);
+    border-bottom:3px solid var(--white);
     margin: 35px;
 
     background-color: var(--blue);
 }
 .pic {
     background-color:var(--blue);
-    border: 3px solid var(--orange);
+    border: 3px solid var(--white);
     padding: 4px;
     margin: 5px;
 }
 div li{
     background-color:var(--blue);
-    border: 3px solid var(--orange);
+    border: 3px solid var(--white);
     padding: 4px;
     margin: 5px;
 }
 p {
     background-color:var(--blue);
-    border: 3px solid var(--orange);
+    border: 3px solid var(--white);
     padding: 4px;
-    margin: 5px;  
+    margin: 5px; 
+    font-size: 30px;
 }
 footer{
     text-align: center;
-    margin: 10px;
-    padding: 5px;
-    background-color: var(--blue);
-    border: 2px solid var(--orange);
-    font-weight: 600;
 }
